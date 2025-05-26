@@ -1,4 +1,4 @@
-# ❄️ Welcome to Frostfox Studios! 🦊
+# ❄️ Welcome to Studio Frostfox! 🦊
 
 Hey there, we are **Studio Frostfox**, a tiny Minecraft modding studio where we are learning the art of modding.
 
